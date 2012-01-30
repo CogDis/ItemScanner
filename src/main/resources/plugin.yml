@@ -4,4 +4,4 @@ version: 1.0
 author: dotblank <dotblank@precipicegames.com>
 depend: [CommandBook]
 
-description: Adds an invenotry scanner to players in creative mode
+description: Adds an inventory scanner to players in creative mode
