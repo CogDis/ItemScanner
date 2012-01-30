@@ -1,0 +1,7 @@
+name: ItemScanner
+main: com.precipicegames.itemscanner.ItemScanner
+version: 1.0
+author: dotblank <dotblank@precipicegames.com>
+depend: [CommandBook]
+
+description: Adds an invenotry scanner to players in creative mode
