@@ -1,4 +1,4 @@
-package com.precpicegames.itemscanner;
+package com.precipicegames.itemscanner;
 
 import org.bukkit.GameMode;
 import org.bukkit.entity.Player;
