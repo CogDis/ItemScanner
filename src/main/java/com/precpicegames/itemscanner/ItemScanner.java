@@ -57,7 +57,7 @@ public class ItemScanner extends JavaPlugin implements Listener {
 		for(ItemStack  i : inv.getContents()) {
 			boolean allowed = true;
 			try {
-				ibook.checkAllowedItem(p, 0);
+				ibook.checkAllowedItem(p, i.getTypeId());
 			} catch (CommandException e) {
 				allowed = false;
 			}
